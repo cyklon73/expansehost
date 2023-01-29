@@ -2,8 +2,8 @@
 
 ![expansehost banner](https://github.com/cyklon73/expansehost/blob/main/banner.png?raw=true)
 
-.. image:: https://img.shields.io/pypi/v/discord.py-message-components.svg
-      :target: https://pypi.python.org/pypi/discord.py-message-components
+.. image:: https://img.shields.io/pypi/v/expansehost.svg
+      :target: https://pypi.python.org/pypi/expansehost
       :alt: PyPI version info
 
 
