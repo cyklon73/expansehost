@@ -2,9 +2,7 @@
 
 ![expansehost banner](https://github.com/cyklon73/expansehost/blob/main/banner.png?raw=true)
 
-.. image:: https://img.shields.io/pypi/v/expansehost.svg
-      :target: https://pypi.python.org/pypi/expansehost
-      :alt: PyPI version info
+[![PyPi version info](https://img.shields.io/pypi/v/expansehost.svg)](https://pypi.python.org/pypi/expansehost)
 
 
 ## Installation
