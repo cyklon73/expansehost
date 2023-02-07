@@ -1,7 +1,7 @@
 import requests
 
-from exeptions import *
-from util import convert_size, convert_millis_to_string, isBlank
+from expansehost.exceptions import *
+from expansehost.util import convert_size, convert_millis_to_string, isBlank
 
 API_URL = 'https://cp.expansehost.de/api/v1/'
 

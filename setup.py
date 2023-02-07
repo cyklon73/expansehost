@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="expansehost",
-    version="1.0.2",
+    version="1.0.3",
     description="A Python API Wrapper for the expansehost API",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -15,7 +15,6 @@ setup(
     license="MIT",
     packages=["expansehost"],
     classifiers=[
-          'Programming Language :: Python :: 3.9',
           'Programming Language :: Python :: 3.10',
           'Programming Language :: Python :: 3.11',
      ],
