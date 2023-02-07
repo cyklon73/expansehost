@@ -3,10 +3,8 @@
 ![expansehost banner](https://github.com/cyklon73/expansehost/blob/main/banner.png?raw=true)
 
 [![PyPi version info](https://img.shields.io/pypi/v/expansehost.svg)](https://pypi.python.org/pypi/expansehost)
-[![Total downloads for the project]( https://static.pepy.tech/personalized-badge/expansehost?period=total&units=international_system&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/expansehost)
-[![PyPI supported Python versions](https://img.shields.io/pypi/pyversions/expansehost.svg)](https://pypi.python.org/pypi/expansehost)
-
 [![Downloads](https://img.shields.io/pypi/dm/expansehost.svg)](https://pypi.org/project/expansehost/)
+[![PyPI supported Python versions](https://img.shields.io/pypi/pyversions/expansehost.svg)](https://pypi.python.org/pypi/expansehost)
 
 ## Installation
 
