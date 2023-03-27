@@ -1,0 +1,21 @@
+from setuptools import setup
+
+with open("%readme%", "r", encoding="utf-8") as fh:
+    long_description = fh.read()
+
+setup(
+    name="%name%",
+    version="%version%",
+    description="%description%",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    url="%url%",
+    author="%author%",
+    author_email="%author_email%",
+    license="%license%",
+    packages=%packages%,
+    classifiers=[
+          'Programming Language :: Python :: 3.10',
+          'Programming Language :: Python :: 3.11',
+     ],
+)
