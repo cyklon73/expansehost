@@ -17,7 +17,7 @@ pip install expansehost
 - [Installation](#installation)
 - [Description](#description)
 - [Guide](#guide)
-- [Documentation](#documentation)
+- [Documentation](https://github.com/cyklon73/expansehost/wiki/API-Reference)
 
 ## Description
 
