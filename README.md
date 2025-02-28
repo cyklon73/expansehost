@@ -1,3 +1,6 @@
+## Archived because Expansehost has discontinued its service
+
+
 # Expansehost 1.0.3
 
 ![expansehost banner](https://github.com/cyklon73/expansehost/blob/main/banner.png?raw=true)
